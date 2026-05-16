@@ -1,6 +1,3 @@
-# Home
-
-## YESSSSSSSS
-### YESSSSSSSSSSSSSSSSSSSSS
-# Thanks for being here
+#Welcome to my website
+#  
 # MIT Licensed • Made by gvidoputenis-design
